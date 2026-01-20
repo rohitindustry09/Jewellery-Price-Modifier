@@ -2,7 +2,7 @@
 
 client_id = "f3ca6a34aadc46c92071e1ca49423756"
 name = "Jewelley Price Modifier"
-application_url = "https://example.com"
+application_url = "https://jewellery-pricer1.vercel.app"
 embedded = true
 
 [build]
@@ -25,4 +25,4 @@ api_version = "2026-04"
 scopes = "read_products,write_products"
 
 [auth]
-redirect_urls = [ "https://example.com/api/auth" ]
+redirect_urls = [ "https://jewellery-pricer1.vercel.app/api/auth" ]
